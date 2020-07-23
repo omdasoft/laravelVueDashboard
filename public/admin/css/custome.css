@@ -1,0 +1,18 @@
+.blue{
+    color:3490dc;
+}
+.red{
+    color: #e3342f;
+}
+
+.green{
+    color: 38c172;
+}
+.orange{
+    color: f6993f;
+}
+
+.router-link-exact-active{
+    background-color: orangered;
+    color: #fff;
+}
