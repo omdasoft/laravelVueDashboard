@@ -1,6 +1,5 @@
-
-# Project Name
-> Here goes your awesome project description!
+# Laravel Vue Dashboard 
+> this project is admin dashboard created with laravel 7 and vue js 
 
 ## Table of contents
 * [General info](#general-info)
@@ -13,10 +12,7 @@
 * [Contact](#contact)
 
 ## General info
-Add more general information about project. What the purpose of the project is? Motivation?
-
-## Screenshots
-![Example screenshot](./img/screenshot.png)
+Add more general information about project. What the purpose of the 
 
 ## Technologies
 * Tech 1 - version 1.0
