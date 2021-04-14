@@ -12,12 +12,14 @@
 * [Contact](#contact)
 
 ## General info
-Add more general information about project. What the purpose of the 
+The main purpose of this project is to learn how to create laravel and vue js dashboard 
 
 ## Technologies
-* Tech 1 - version 1.0
-* Tech 2 - version 2.0
-* Tech 3 - version 3.0
+* laravel 7
+* Vue js 
+* bootstrap 3
+* css3 
+
 
 ## Setup
 Describe how to install / setup your local environement / add link to demo version.
