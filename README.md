@@ -4,7 +4,6 @@
 ## Table of contents
 * [General info](#general-info)
 * [Technologies](#technologies)
-* [Setup](#setup)
 * [Status](#status)
 
 ## General info
@@ -15,9 +14,6 @@ The main purpose of this project is to learn how to create laravel and vue js da
 * Vue js 
 * bootstrap 3
 * css3 
-
-## Setup
-Describe how to install / setup your local environement / add link to demo version.
 
 ## Status
 Project is: _in progress
